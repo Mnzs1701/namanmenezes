@@ -14,7 +14,7 @@ body{
 }
 .about-left{
     background-color: #21D4FD;
-    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    background-image: linear-gradient(19deg, #21D4FD 0%, #68ffac 100%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -62,7 +62,7 @@ body{
     margin: 2.2rem 0 0.6rem 0;
     line-height: 1.2;
     padding-bottom: 1rem;
-    border-bottom: 2px solid #B721FF;
+    border-bottom: 2px solid #68ffac;
 }
 .about-left-content h3{
     text-transform: uppercase;
@@ -79,7 +79,7 @@ body{
 }
 .icons li{
     list-style-type: none;
-    background: #B721FF;
+    background: #68ffac;
     color: #fff;
     width: 40px;
     height: 40px;
@@ -112,7 +112,7 @@ body{
     text-transform: uppercase;
 }
 .about-right h1 span{
-    color: #B721FF;
+    color: #68ffac;
 }
 .about-right h2{
     font-weight: 600;
@@ -136,9 +136,9 @@ body{
     color:#fff
 }
 .btn.btn-pink{
-    background: #B721FF;
+    background: #68ffac;
     color: #fff;
-    border-color: #B721FF;
+    border-color: #68ffac;
     transition: all 0.5s ease-in-out;
 }
 .btn.btn-pink:hover{
@@ -150,8 +150,8 @@ body{
     transition: all 0.5s ease-in-out;
 }
 .btn.btn-white:hover{
-    background: #B721FF;
-    border-color: #B721FF;
+    background: #68ffac;
+    border-color: #68ffac;
     color: #fff;
 }
 .about-para p{
@@ -182,7 +182,7 @@ body{
 }
 .credit a{
     text-decoration: none;
-    color:#B721FF;
+    color:#68ffac;
     font-weight: bold;
 } 
 
