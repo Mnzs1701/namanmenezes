@@ -140,6 +140,14 @@
     transition-duration: 400ms;
 
   }
+  #name {
+
+    position: fixed;
+    z-index: 3;
+    left: 5%;
+    top: 5%;
+    cursor: pointer;
+  }
 
   #nav-toggle:hover {
     transform: translateX(-50%) scale(1.04);
